@@ -14,19 +14,19 @@ const Header = () => {
         <div className="flex items-center gap-4">
           <Link
             className="font-medium text-sm text-black hover:opacity-90"
-            href={"/#features"}
+            href={"/features"}
           >
             Features
           </Link>
           <Link
             className="font-medium text-sm text-black hover:opacity-90"
-            href={"/#pricing"}
+            href={"/pricing"}
           >
             Pricing
           </Link>
           <Link
             className="font-medium text-sm text-white bg-black px-4 py-2 rounded-lg hover:opacity-90"
-            href={"/#dashboard"}
+            href={"/dashboard"}
           >
             Dashboard
           </Link>
